@@ -5,6 +5,7 @@
 我的第一个git测试
 777777777777
 88888888888888888
-999999999999999
+bbbbbbbbbb
 禁用”Fast forward”模式
+aaaaaaaaaaaaaaaaa
 
